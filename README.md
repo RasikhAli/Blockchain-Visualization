@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is a simple blockchain visualization application built with Flask and Socket.IO. It allows users to add and remove blocks dynamically, providing a visual representation of the blockchain in real-time.
+This project is a dynamic blockchain visualization application built with Flask and Socket.IO. It allows users to add and remove blocks dynamically, providing a visual representation of the blockchain in real-time.
 
 ### Features
 
